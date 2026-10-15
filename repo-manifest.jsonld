@@ -8,7 +8,7 @@
     {
       "@id": "https://repolex.ai/r/scikit-hep/hepunits/commit/f78ca6d7518fee26a762841e792be1b0e9174a58",
       "git:hexsha": "f78ca6d7518fee26a762841e792be1b0e9174a58",
-      "repolex:parseStatus": "metadata_complete"
+      "repolex:parseStatus": "ast_complete"
     },
     {
       "@id": "https://repolex.ai/r/scikit-hep/hepunits/commit/eb89f7ead518f3c107191fe917188ce02ee34a8d",
