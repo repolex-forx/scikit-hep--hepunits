@@ -1,0 +1,11 @@
+{
+  "org": "scikit-hep",
+  "repo": "hepunits",
+  "versions": [
+    {
+      "commit": "f78ca6d7518fee26a762841e792be1b0e9174a58",
+      "tag": "",
+      "parsed_at": "2026-10-15T20:15:16.654114+00:00"
+    }
+  ]
+}
